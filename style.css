@@ -1,0 +1,80 @@
+#body {
+  max-width: 100%;
+}
+.display-4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+#brand {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+#brand {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+
+#navbarNavAltMarkup {
+  font-family: futura-pt, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+.divisor1 {
+  overflow: hidden;
+}
+.divisor2 {
+  padding-top: 10px;
+}
+#muestra {
+  background: url(imagenes/trama.png);
+  height: 400px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  color: white;
+}
+.fecha {
+  padding-top: 130px !important;
+}
+.pt-5 {
+  padding-top: 3rem !important;
+}
+
+#imgtercerojo {
+  margin-top: 7rem !important;
+}
+
+#infomuestra {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+
+p {
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+}
+.card {
+  border-radius: 30px;
+}
+.cardsasrtistas {
+  padding-left: 100px;
+}
+
+.card-img-top {
+  margin-top: 1rem;
+  border-radius: 20px;
+}
+
+.elementos-2 {
+  padding-left: 100px;
+  padding-top: 50px;
+}
+
+.card-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.redes {
+  font-size: 20pt;
+}
